@@ -1,0 +1,3 @@
+
+# ignoring the .class files in the repo
+*.class
